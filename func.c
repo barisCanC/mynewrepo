@@ -3,7 +3,7 @@ include<stdio.h>
 
 int double(int num)
 {
-  return num * 3;
+  return num * 2;
 }
 
 int main()
